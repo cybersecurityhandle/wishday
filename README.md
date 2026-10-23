@@ -38,7 +38,7 @@ If you want fully automatic Signal sending, the usual route is [signal-cli](http
 
 ## Why this isn't on Google Play
 
-Automatic SMS needs the `SEND_SMS` permission. Google Play only allows that permission for apps set as the device's default SMS app. Wishday is meant for [F-Droid](https://f-droid.org) and GitHub releases, where that restriction doesn't apply. Store metadata is in `fastlane/metadata/android`.
+Automatic SMS needs the `SEND_SMS` permission. Google Play only allows that permission for apps set as the device's default SMS app. Wishday is distributed through [F-Droid](https://f-droid.org/packages/net.stuckless.wishday/) and GitHub releases, where that restriction doesn't apply. Store metadata is in `fastlane/metadata/android`.
 
 ## Why it lists "read phone status and identity"
 
