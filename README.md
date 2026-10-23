@@ -2,6 +2,8 @@
 
 ![Wishday: never miss a birthday again](docs/banner.png)
 
+[![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/net.stuckless.wishday/)
+
 A small, open-source Android app that remembers birthdays and helps you wish people a happy birthday, by **SMS (fully automatic)**, or **Signal / Molly / WhatsApp (prefilled, one tap)**.
 
 Inspired by [Birday](https://github.com/m-i-n-a-r/birday).
